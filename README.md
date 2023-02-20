@@ -1,4 +1,4 @@
-# Deeplearning
+### Deeplearning
 Deeplearning project 
 ###  Requirements
 First, we need to install `pycocotools`. This library will be used for computing the evaluation metrics following the COCO metric for intersection over union.
@@ -7,7 +7,8 @@ First, we need to install `pycocotools`. This library will be used for computing
 ```
 and these follow up tools:
 ```
-pytorch
+torch
+torchvision
 matplotlib
 pillow
 numpy
